@@ -1,0 +1,2 @@
+# JavaScriptProgrammingHomeworkEx5
+JavaScript Functions Exercise
